@@ -10,7 +10,7 @@
 ROSインストール後に下記の手順を行ってください
 ```sh
 $ cd ~/catkin_ws/scr
-$ git clone 
+$ git clone https://github.com/ManatoYamaguchi/Robot-system2.git
 $ cd..
 $ catkin_make
 $ roscore
