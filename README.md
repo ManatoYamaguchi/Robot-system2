@@ -25,8 +25,8 @@ $ rosrun mypkg count.py
 
 ## 実行動画
 動画URL：
+
 ---
 
 ## ライセンス
 BSD 3-Clause License
----
