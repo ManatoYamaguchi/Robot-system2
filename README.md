@@ -24,7 +24,7 @@ $ rosrun mypkg count.py
 ---
 
 ## 実行動画
-動画URL：
+動画URL：https://youtu.be/m8mAcg4AqaA
 
 ---
 
