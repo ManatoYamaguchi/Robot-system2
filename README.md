@@ -38,8 +38,7 @@ $ rostopic echo /count_up
 ---
 
 ## 実行動画
-動画URL：https://youtu.be/m8mAcg4AqaA
-
+動画URL：https://youtu.be/VuECCm1N5X
 ---
 
 ## ライセンス
