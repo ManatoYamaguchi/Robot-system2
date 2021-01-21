@@ -13,6 +13,8 @@ $ cd ~/catkin_ws/scr
 $ git clone https://github.com/ManatoYamaguchi/Robot-system2.git
 $ cd..
 $ catkin_make
+$ source ~/.bashrc
+$ cd src/Robot-system2/scripts
 $ roscore
 ```
 上記の手順が終わったら下記の手順を別の端末で行ってください(端末2)
