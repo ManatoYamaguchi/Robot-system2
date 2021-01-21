@@ -43,4 +43,4 @@ $ rostopic echo /count_up
 ---
 
 ## ライセンス
-[BSD 3-Clause License]()
+[BSD 3-Clause License](https://github.com/ManatoYamaguchi/Robot-system2/blob/main/LICENSE)
